@@ -54,6 +54,17 @@ Balanced Logistic Regression performed best due to improved handling of class im
 - How class_weight improves minority class performance
 - How to interpret ROC-AUC
 
+## 📂 Dataset
+
+The dataset used in this project is:
+
+SMS Spam Collection – UCI Machine Learning Repository
+
+You can download it from:
+https://archive.ics.uci.edu/ml/datasets/sms+spam+collection
+
+After downloading, place the file in the project directory before running the notebook.
+
 ---
 ## ▶️ How to Run
 
